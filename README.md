@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App]
-(https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App].
 ## Weather-App Tutorial
-This is a basic weather app tutorial by [Robert Michael Welan]
-(https://github.com/robwelan).
+This is a basic weather app tutorial 
 The main technology used is [React.js](https://reactjs.org/).
 It uses:
 - [Air-BNB Linter](https://www.npmjs.com/package/eslint-config-airbnb)
@@ -16,7 +14,5 @@ It uses:
 here on npm/yarn: [weather-icons-tmp]
 (https://www.npmjs.com/package/weather-icons-tmp))
 ## On Completion
-You can find a deployed version of this project here:
-[https://weather.creatureoftech.com](https://weather.creatureoftech.com)
 License for Code:
 - MIT Licence
